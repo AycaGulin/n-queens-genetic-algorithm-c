@@ -148,10 +148,10 @@ Example for N = 5:
 Enter N (4-20): 5
 
 Solution for N = 5:
-. Q . . .
-. . . Q .
-. . . . Q
 Q . . . .
+. . . Q .
+. Q . . .
+. . . . Q
 . . Q . .
 
 Solution found: YES
@@ -164,9 +164,7 @@ Example for N = 20:
 Enter N (4-20): 20
 
 Solution for N = 20:
-. . Q . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . Q . . . . . . .
-...
+The program prints a 20 by 20 board using Q for queens and . for empty spaces.
 
 Solution found: YES
 Fitness of best individual: 190
